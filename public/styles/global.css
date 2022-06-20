@@ -1,0 +1,15 @@
+:root {
+    --purple: #574AE8;
+    --azul-degrade: linear-gradient(97.54deg, #574AE8 20%, #3EA1DB 80%);
+
+    --white: #FFFFFF;
+    --white-200: #F3F5F7;
+    --gray: #717171;
+    --gray-dark: #1A202C;
+    --purple-bg: #290742;
+}
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    background: var(--white-200);
+}
